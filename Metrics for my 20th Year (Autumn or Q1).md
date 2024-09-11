@@ -54,9 +54,20 @@ A. Health and Well-Being
 			2. Did you take the nasal steroid right before bed? 
 
 B. Artistic Development
-1. The Artists Way (Goal: Complete the book, even if shallowly)
+1. The Artists Way (GOAL: Complete the book, even if shallowly)
 	1. Morning Pages: Did you do morning pages today? If so, did you do both pages or just 1? 
 	2. Affirmation Work: Did you do affirmation work today? If so, for how long?
-2. Guitar
+2. Guitar (GOAL: Get to an intermediate level by practicing an hour a day)
 	1. Exercises: 
-	2. 
+		1. Did you do the chromatic exercise today for at least 15 minutes?
+		2. Did you do the triad exercise for at least 15 minutes?
+	2. Song Learning: 
+		1. Did you learn or practice a song that has something new for at least 15 minutes?
+	3. Reflection: 
+		1. Did you journal before your practice session about your goal?
+		2. Did you journal after your practice session and reflect on what it was?
+		3. Did you review yesterday's practice session before beginning?
+3. Songwriting Exercises: 
+	1. Did you do object writing for 10-15 minutes in the morning?
+4. Songwriting Did you actively write songs for at least an hour a day?
+	1. Did you journal about the songwriting, including any lyrics or 
