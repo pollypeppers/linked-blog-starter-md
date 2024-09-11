@@ -24,4 +24,26 @@
 	2. Brush at Morning: Did you brush your teeth at least 2 minutes in the morning? 
 	3. Did you floss at night for at least 2 minutes?
 6. Nutrition: (Goal: Eat 3 balanced meals daily.)
-	1. Br
+	1. Breakfast: 
+		1. Did you eat breakfast?
+		2. Did you eat it no more than 2 hours after waking today?
+		3. Did you finish in less than an hour?
+	2. Lunch:
+		1. Did you eat lunch?
+		2. Did you eat it no more than 6 hours after waking today?
+		3. Did you finish eating in less than an hour?
+	3. Dinner? 
+		1. Did you eat dinner?
+		2. Did you eat dinner no more than 11 hours after waking today?
+		3. Did you finish eating in less than an hour?
+7. Medication Adherence: 
+	1. Adderall 
+		1. 1st Dose: Did you take 10-15 mg of adderall first thing after waking?
+		2. 2nd Dose: Did you take 10-15 mg of adderall about 5 hours after waking?
+		3. 3rd Dose: Did you take 10 mg of adderall 9 hours after waking?
+	2. Vitamins 
+		1. Vitamin D
+			1. Did you take 1000 iu vitamin D right after breakfast?
+			2. Did you take 1000 iu vitamin D right after lunch?
+	3. Allergy
+			1. 
