@@ -1,3 +1,4 @@
+A. Health and Well-Being
 1. Sleep Hygiene Metrics (GOAL: Regulate Sleep Schedule)
 	1. Sleep Duration: Did you sleep 8 hours today?
 	2. Bedtime: Did you sleep during your melatonin window?
@@ -23,7 +24,7 @@
 	1. Brush at Night: Did you brush your teeth at least 2 minutes at night?
 	2. Brush at Morning: Did you brush your teeth at least 2 minutes in the morning? 
 	3. Did you floss at night for at least 2 minutes?
-6. Nutrition: (Goal: Eat 3 balanced meals daily.)
+6. Nutrition: (GOALl: Eat 3 balanced meals daily.)
 	1. Breakfast: 
 		1. Did you eat breakfast?
 		2. Did you eat it no more than 2 hours after waking today?
@@ -36,7 +37,7 @@
 		1. Did you eat dinner?
 		2. Did you eat dinner no more than 11 hours after waking today?
 		3. Did you finish eating in less than an hour?
-7. Medication Adherence: 
+7. Medication Adherence: (GOAL: Take necessary medication everyday.)
 	1. Adderall 
 		1. 1st Dose: Did you take 10-15 mg of adderall first thing after waking?
 		2. 2nd Dose: Did you take 10-15 mg of adderall about 5 hours after waking?
@@ -46,4 +47,10 @@
 			1. Did you take 1000 iu vitamin D right after breakfast?
 			2. Did you take 1000 iu vitamin D right after lunch?
 	3. Allergy
-			1. 
+		1. Pill
+			1. Did you take your allergy medicine right before bed?
+		2. Nasal
+			1. Did you take the nasal steroid right when you woke up?
+			2. Did you take the nasal steroid right before bed? 
+
+B. 
