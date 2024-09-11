@@ -67,7 +67,21 @@ B. Artistic Development
 		1. Did you journal before your practice session about your goal?
 		2. Did you journal after your practice session and reflect on what it was?
 		3. Did you review yesterday's practice session before beginning?
-3. Songwriting Exercises: 
+3. Songwriting (PRACTICE/Exercises)
 	1. Did you do object writing for 10-15 minutes in the morning?
-4. Songwriting Did you actively write songs for at least an hour a day?
-	1. Did you journal about the songwriting, including any lyrics or 
+4. Songwriting (DOING)
+	1. Did you actively write songs for at least an hour  today?
+	2. Did you journal about the songwriting, including any lyrics or title any markers? 
+5. Songwriting (LEARNING)
+	1. Did you learn about songwriting for at least 15 minutes today?
+	2. Did you put what you learned into your learning diary?
+6. Songwriting (Analysis)
+	1. Did you analyze at least 1 song today lyrically since that is your quarterly focus? 
+	2. Did you put what you gathered from the analysis somewhere?
+7. Piano (Goal: Get to a late beginner level by practicing 1/2 an hour a day)
+	1. Did you learn something new about piano for 10 minutes 
+	2. Did you practice piano for 20 minutes?
+
+C. Soulful Cultural Nourishment 
+
+D. Intellectual 
