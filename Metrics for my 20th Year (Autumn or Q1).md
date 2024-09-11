@@ -53,4 +53,10 @@ A. Health and Well-Being
 			1. Did you take the nasal steroid right when you woke up?
 			2. Did you take the nasal steroid right before bed? 
 
-B. 
+B. Artistic Development
+1. The Artists Way (Goal: Complete the book, even if shallowly)
+	1. Morning Pages: Did you do morning pages today? If so, did you do both pages or just 1? 
+	2. Affirmation Work: Did you do affirmation work today? If so, for how long?
+2. Guitar
+	1. Exercises: 
+	2. 
