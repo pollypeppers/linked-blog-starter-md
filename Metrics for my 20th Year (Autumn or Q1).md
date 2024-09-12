@@ -81,7 +81,10 @@ B. Artistic Development
 7. Piano (Goal: Get to a late beginner level by practicing 1/2 an hour a day)
 	1. Did you learn something new about piano for 10 minutes 
 	2. Did you practice piano for 20 minutes?
+8. Singing 
 
-C. Soulful Cultural Nourishment 
+C. Soulful/Cultural Nourishment 
 
-D. Intellectual 
+D. Intellectual Development
+
+E. Social Development
